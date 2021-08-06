@@ -4,3 +4,4 @@ almost finished first videoS
 can we start java and ANT toady
 i think we shd install maven toadyS
 yeah you have too 
+diff btw fetch and merge
