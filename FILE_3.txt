@@ -1,2 +1,3 @@
 3rd STAGE of development phase
-E:\DEVOPS\Practice\GIT_Practice\GIT_DEMO
+E:\DEVOPS\Practice\GIT_Practice\GIT_DEMO 
+command line
